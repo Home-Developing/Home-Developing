@@ -1,0 +1,4 @@
+- Xbox Ambassadors
+- Microsoft Partner
+- Microsoft Partner Research Panel (MSPRP)
+- home-developing.com
